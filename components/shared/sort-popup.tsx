@@ -1,6 +1,6 @@
 import React from "react";
 import cn from "classnames";
-import { ArrowUpDown, Divide } from "lucide-react";
+import { ArrowUpDown } from "lucide-react";
 
 interface SortPopupProps {
   className?: string;
