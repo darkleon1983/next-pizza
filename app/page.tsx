@@ -11,7 +11,7 @@ export default function Home() {
         <Title text="Все пиццы" size="lg" className="font-extrabold" />
       </Container>
       <TopBar />
-      <Container className={cn("pb-14px")}>
+      <Container className={cn("mt-10 pb-14px")}>
         <div className={cn("flex gap-[60px]")}>
           {/*Фильтрация*/}
           <div className={cn("w-[250px]")}>
